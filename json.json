@@ -1,11 +1,23 @@
-{"menu": {
-				  "id": "file",
-				  "value": "File",
-				  "popup": {
-				    "menuitem": [
-				      {"value": "New", "onclick": "CreateNewDoc()"},
-				      {"value": "Open", "onclick": "OpenDoc()"},
-				      {"value": "Close", "onclick": "CloseDoc()"}
-				    ]
-				  }
-				}}
+{
+	"title": “Whatever you want Title”,
+	"type": “Technology”,
+	“articles”: [
+		“article”: {
+			"title“: “Awesome Title”,
+			"description": “Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.”,
+			“author”: “Peter Griffin”		
+		},
+
+		"article": {
+			"title”: “Incredible Title”,
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+			“author”: “Stewie Griffin”		
+		},
+
+		"article": {
+			"title”: “Amazing Title”,
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+			“author”: “Joe Swanson”		
+		}
+	]
+}
