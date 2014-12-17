@@ -1,554 +1,554 @@
 [
-        {name:"Dr. Rory J. Manning"
+        {"name":"Dr. Rory J. Manning"
         ,position:"Principal"
         ,email:"manningr@harborfieldscsd.org"
 },
-        {name:"Jami Goldstein Scherr"
+        {"name":"Jami Goldstein Scherr"
         ,position:"Assistant Principal"
         ,email:"scherrj@harborfieldscsd.org"
 },
-        {name:"Robert Kelly"
+        {"name":"Robert Kelly"
         ,position:"Assistant Principal"
         ,email:"kellyr@harborfieldscsd.org"
 },
-        {name:"Christopher Agostino"
+        {"name":"Christopher Agostino"
         ,position:"P.E. Teacher"
         ,email:"agostinoc@harborfieldscsd.org"
 },
-        {name:"Kristen Akbar"
+        {"name":"Kristen Akbar"
         ,position:"Mathematics Teacher"
         ,email:"akbark@harborfieldscsd.org"
 },
-        {name:"Jennifer Ambrosio"
+        {"name":"Jennifer Ambrosio"
         ,position:"Special Education Teacher"
         ,email:"ambrosioj@harborfieldscsd.org"
 },
-        {name:"Vincent Ambrosio"
+        {"name":"Vincent Ambrosio"
         ,position:"English Teacher"
         ,email:"ambrosiov@harborfieldscsd.org"
 },
-        {name:"Marco Antenucci"
+        {"name":"Marco Antenucci"
         ,position:"Art Teacher"
         ,email:"antenuccim@harborfieldscsd.org"
 },
-        {name:"Regina Antretter"
+        {"name":"Regina Antretter"
         ,position:"Mathematics Teacher"
         ,email:"antretterr@harborfieldscsd.org"
 },
-        {name:"Clara Baltrusitis"
+        {"name":"Clara Baltrusitis"
         ,position:"Mathematics Teacher"
         ,email:"baltrusitisc@harborfieldscsd.org"
 },
-        {name:"Denise Barattini"
+        {"name":"Denise Barattini"
         ,position:"Permanent Substitute Teacher"
         ,email:"barattinid@harborfieldscsd.org"
 },
-        {name:"Daniel Barret"
+        {"name":"Daniel Barret"
         ,position:"Science Teacher"
         ,email:"BarretD@harborfieldscsd.org"
 },
-        {name:"Jessica Behzadi"
+        {"name":"Jessica Behzadi"
         ,position:"Teaching Assistant"
         ,email:"Behzadij@harborfieldscsd.org"
 },
-        {name:"David Bender"
+        {"name":"David Bender"
         ,position:"Science Teacher"
         ,email:"bendered@harborfieldscsd.org"
 },
-        {name:"Thomas Bennett"
+        {"name":"Thomas Bennett"
         ,position:"Mathematics Teacher"
         ,email:"Bennett@harborfieldscsd.org"
 },
-        {name:"Lisa Bergman"
+        {"name":"Lisa Bergman"
         ,position:"Guidance Counselor"
         ,email:"bergmanl@harborfieldscsd.org"
 },
-        {name:"Allison Bilawsky"
+        {"name":"Allison Bilawsky"
         ,position:"Music Teacher"
         ,email:"ScillaA@harborfieldscsd.org"
 },
-        {name:"Jacqueline Black"
+        {"name":"Jacqueline Black"
         ,position:"Math Teacher"
         ,email:"blackj@harborfieldscsd.org"
 },
-        {name:"Barbara Blumberg-Rath"
+        {"name":"Barbara Blumberg-Rath"
         ,position:"Paraprofessional"
         ,email:"blumbergb@harborfieldscsd.org"
 },
-        {name:"Theo Bobetski-Hafkin"
+        {"name":"Theo Bobetski-Hafkin"
         ,position:"Teaching Assistant"
         ,email:"hafkint@harborfieldscsd.org"
 },
-        {name:"Craig Butler"
+        {"name":"Craig Butler"
         ,position:"LOTE teacher"
         ,email:"butlerc@harborfieldscsd.org"
 },
-        {name:"Michelle Carnaxide"
+        {"name":"Michelle Carnaxide"
         ,position:"Special Education Teacher"
         ,email:"carnaxidem@harborfieldscsd.org"
 },
-        {name:"Kimberly Carrol"
+        {"name":"Kimberly Carrol"
         ,position:"Special Education Teacher"
         ,email:"carrollk@harborfieldscsd.org"
 },
-        {name:"Anna Cervini"
+        {"name":"Anna Cervini"
         ,position:"ESL Teacher"
         ,email:"cervinia@harborfieldscsd.org"
 },
 
-        {name:"Barbara Cohen"
+        {"name":"Barbara Cohen"
         ,position:"Teaching Assistant"
         ,email:"CohenB@harborfieldscsd.org"
 },
-        {name:"Irene Contopoulous"
+        {"name":"Irene Contopoulous"
         ,position:"Clerical"
         ,email:"contopoulousi@harborfieldscsd.org"
 },
 
-        {name:"Damianos Contopoulous"
+        {"name":"Damianos Contopoulous"
         ,position:"Science Teacher"
         ,email:"contopoulousdamianos@harborfieldscsd.org"
 },
 
-        {name:"Kathleen Csogi"
+        {"name":"Kathleen Csogi"
         ,position:"Clerical"
         ,email:"csogik@harborfieldscsd.org"
 },
 
-        {name:"Theresa Damm"
+        {"name":"Theresa Damm"
         ,position:"Clerical"
         ,email:"dammt@harborfieldscsd.org"
 },
 
-        {name:"Maria D'Amore"
+        {"name":"Maria D'Amore"
         ,position:"LOTE Teacher"
         ,email:"D'AmoreM@harborfieldscsd.org"
 },
 
-        {name:"Nicholas D'Anna"
+        {"name":"Nicholas D'Anna"
         ,position:"Science Teacher"
         ,email:"dannan@harborfieldscsd.org"
 },
 
-        {name:"Michelle DaSilva"
+        {"name":"Michelle DaSilva"
         ,position:"Social Studies Teacher"
         ,email:"DaSilvaM@harborfieldscsd.org"
 },
 
-        {name:"Margareta Demarest"
+        {"name":"Margareta Demarest"
         ,position:"Teaching Assistant"
         ,email:"demarestm@harborfieldscsd.org"
 },
 
-        {name:"Elizabeth Devaney"
+        {"name":"Elizabeth Devaney"
         ,position:"Art Teacher"
         ,email:"DevaneyE@harborfieldscsd.org"
 },
 
-        {name:"Lisa Drake"
+        {"name":"Lisa Drake"
         ,position:"School Psychologist"
         ,email:"drakel@harborfieldscsd.org"
 },
 
-        {name:"Carolann Essig"
+        {"name":"Carolann Essig"
         ,position:"Teaching Assistant"
         ,email:"essigc@harborfieldscsd.org"
 },
 
-        {name:"Mary Fagan"
+        {"name":"Mary Fagan"
         ,position:"Guidance Counselor"
         ,email:"FaganM@harborfieldscsd.org"
 },
 
-        {name:"Carol Fleishman"
+        {"name":"Carol Fleishman"
         ,position:"Special Education Teacher"
         ,email:"FleishmanC@harborfieldscsd.org"
 },
 
-        {name:"Brian Flynn"
+        {"name":"Brian Flynn"
         ,position:"English Teacher"
         ,email:"FlynnBr@harborfieldscsd.org"
 },
-        {name:"Courtney-Ann Frisenda"
+        {"name":"Courtney-Ann Frisenda"
         ,position:"Teaching Assistant"
         ,email:"frisendac@harborfieldscsd.org"
 },
-        {name:"Laura Gargaro"
+        {"name":"Laura Gargaro"
         ,position:"Clerical"
         ,email:"gargarol@harborfieldscsd.org"
 },
-        {name:"Kristen Gavin"
+        {"name":"Kristen Gavin"
         ,position:"English Teacher"
         ,email:"gavink@harborfieldscsd.org"
 },
-        {name:"Debra Gerhardt"
+        {"name":"Debra Gerhardt"
         ,position:"Paraprofessional"
         ,email:"GerhardtD@harborfieldscsd.org"
 },
-        {name:"Patricia Giordano"
+        {"name":"Patricia Giordano"
         ,position:"Paraprofessional"
         ,email:"GiordanoP@harborfieldscsd.org"
 },
-        {name:"Brian Given"
+        {"name":"Brian Given"
         ,position:"Special Education Teacher"
         ,email:"GivenB@harborfieldscsd.org"
 },
-        {name:"Therese Gold"
+        {"name":"Therese Gold"
         ,position:"LOTE Teacher"
         ,email:"GoldT@harborfieldscsd.org"
 },
-        {name:"Tomas Gonazalez"
+        {"name":"Tomas Gonazalez"
         ,position:"Social Worker"
         ,email:"GonzalezT@harborfieldscsd.org"
 },
-        {name:"Daniel Greening"
+        {"name":"Daniel Greening"
         ,position:"Social Studies Teacher"
         ,email:"greeningd@harborfieldscsd.org"
 },
-        {name:"Kristen Greening"
+        {"name":"Kristen Greening"
         ,position:"Social Studies Teacher"
         ,email:"greeningk@harborfieldscsd.org"
 },
-        {name:"Gina Grubbs"
+        {"name":"Gina Grubbs"
         ,position:"Teaching Assistant"
         ,email:"grubbsg@harborfieldscsd.org"
 },
-        {name:"Kristina Grupinski"
+        {"name":"Kristina Grupinski"
         ,position:"Permanent Substitute Teacher"
         ,email:"grupinskik@harborfieldscsd.org"
 },
-        {name:"Susan Hahn"
+        {"name":"Susan Hahn"
         ,position:"Clerical"
         ,email:"hahns@harborfieldscsd.org"
 },
-        {name:"Jessica Hansen"
+        {"name":"Jessica Hansen"
         ,position:"Special Education Teacher"
         ,email:"hansenj@harborfieldscsd.org"
 },
-        {name:"Dennis Harmon"
+        {"name":"Dennis Harmon"
         ,position:"P.E. Teacher"
         ,email:"harmond1@harborfieldscsd.org"
 },
-        {name:"Jennifer Harmon"
+        {"name":"Jennifer Harmon"
         ,position:"Mathematics Teacher"
         ,email:"harmonj@harborfieldscsd.org"
 },
-        {name:"Brian Harris"
+        {"name":"Brian Harris"
         ,position:"School Psychologist"
         ,email:"HarrisB@harborfieldscsd.org"
 },
-        {name:"Charlene Hoffman"
+        {"name":"Charlene Hoffman"
         ,position:"Mathematics Teacher"
         ,email:"HoffmanC@harborfieldscsd.org"
 },
-        {name:"Maryann Hoffman"
+        {"name":"Maryann Hoffman"
         ,position:"Paraprofessional"
         ,email:"HoffmanM@harborfieldscsd.org"
 },
-        {name:"Noreen Holst"
+        {"name":"Noreen Holst"
         ,position:"Paraprofessional"
         ,email:"HolstN@harborfieldscsd.org"
 },
-        {name:"Stuart Horowitz"
+        {"name":"Stuart Horowitz"
         ,position:"Librarian"
         ,email:"HorowitzS@harborfieldscsd.org"
 },
-        {name:"James Incorvaia"
+        {"name":"James Incorvaia"
         ,position:"English Teacher"
         ,email:"IncorvaiaJ@harborfieldscsd.org"
 },
-        {name:"Clare Jackson"
+        {"name":"Clare Jackson"
         ,position:"Music Teacher"
         ,email:"jacksonc@harborfieldscsd.org"
 },
-        {name:"Christopher Kahler"
+        {"name":"Christopher Kahler"
         ,position:"Social Studies Teacher"
         ,email:"KahlerC@harborfieldscsd.org"
 },
-        {name:"Patricia Kalvar"
+        {"name":"Patricia Kalvar"
         ,position:"Science Teacher"
         ,email:"KalvarP@harborfieldscsd.org"
 },
-        {name:"Troy Kandler"
+        {"name":"Troy Kandler"
         ,position:"Special Education Teacher"
         ,email:"KandlerT@harborfieldscsd.org"
 },
-        {name:"Michael Khan"
+        {"name":"Michael Khan"
         ,position:"Science Teacher"
         ,email:"KhanM@harborfieldscsd.org"
 },
-        {name:"Susan Koenig"
+        {"name":"Susan Koenig"
         ,position:"School Social Worker"
         ,email:"koenigs@harborfieldscsd.org"
 },
-        {name:"George Kouroutis"
+        {"name":"George Kouroutis"
         ,position:"Social Studies Teacher"
         ,email:"kouroutisg@harborfieldscsd.org"
 },
-        {name:"Jessica LaMantia"
+        {"name":"Jessica LaMantia"
         ,position:"English Teacher"
         ,email:"lamantiaj@harborfieldscsd.org"
 },
-        {name:"Paul Lasinski"
+        {"name":"Paul Lasinski"
         ,position:"Health/Student Assistance Liason"
         ,email:"LasinskiP@harborfieldscsd.org"
 },
-        {name:"Randy Logerfo"
+        {"name":"Randy Logerfo"
         ,position:"Clerical"
         ,email:"logerfor@harborfieldscsd.org"
 },
-        {name:"Patricio Lopez"
+        {"name":"Patricio Lopez"
         ,position:"LOTE Teacher"
         ,email:"LopezP@harborfieldscsd.org"
 },
-        {name:"Matthew Maffia"
+        {"name":"Matthew Maffia"
         ,position:"Mathematics Teacher"
         ,email:"maffiam@harborfieldscsd.org"
 },
-        {name:"Aspasia Mally"
+        {"name":"Aspasia Mally"
         ,position:"Paraprofessional"
         ,email:"MallyA@harborfieldscsd.org"
 },
-        {name:"Ellen Mangiamele"
+        {"name":"Ellen Mangiamele"
         ,position:"English Teacher"
         ,email:"mangiamelee@harborfieldscsd.org"
 },
-        values.put("firstname:","Lorraine Mantello"
+        values.put("first"name":","Lorraine Mantello"
         ,position:"Permanent Substitute Teacher"
         ,email:"mantellol@harborfieldscsd.org"
 },
-        values.put("firstname:","Nicholas Maravell"
+        values.put("first"name":","Nicholas Maravell"
         ,position:"Art Teacher"
         ,email:"MaravellN@harborfieldscsd.org"
 },
-        values.put("firstname:","Donna Marotta"
+        values.put("first"name":","Donna Marotta"
         ,position:"Special Education"
         ,email:"marottad@harborfieldscsd.org"
-        db.insert("employee", "lastname:" , values
+        db.insert("employee", "last"name":" , values
 
-        values.put("firstname:","Allison Matthews"
+        values.put("first"name":","Allison Matthews"
         ,position:"Business Teacher"
         ,email:"MatthewsA@harborfieldscsd.org"
-        db.insert("employee", "lastname:" , values
+        db.insert("employee", "last"name":" , values
 
-        values.put("firstname:","Stefania Mattio"
+        values.put("first"name":","Stefania Mattio"
         ,position:"LOTE Teacher"
         ,email:"MattioS@harborfieldscsd.org"
-        db.insert("employee", "lastname:" , values
+        db.insert("employee", "last"name":" , values
 
-        values.put("firstname:","Jeri McCabe"
+        values.put("first"name":","Jeri McCabe"
         ,position:"Teaching Assistant"
         ,email:"McCabeJ@harborfieldscsd.org"
-        db.insert("employee", "lastname:" , values
+        db.insert("employee", "last"name":" , values
 
-        values.put("firstname:","James McCabe"
+        values.put("first"name":","James McCabe"
         ,position:"Guidance Counselor"
         ,email:"mccabej1@harborfieldscsd.org"
-        db.insert("employee", "lastname:" , values
+        db.insert("employee", "last"name":" , values
 
-        values.put("firstname:","Annie McClintock"
+        values.put("first"name":","Annie McClintock"
         ,position:"Teaching Assistant"
         ,email:"mcclintocka@harborfieldscsd.org"
 },
-        values.put("firstname:","McCoy Robert"
+        values.put("first"name":","McCoy Robert"
         ,position:"English Teacher"
         ,email:"mccoyr@harborfieldscsd.org"
 },
-        values.put("firstname:","Barbara McCullagh"
+        values.put("first"name":","Barbara McCullagh"
         ,position:"English Teacher"
         ,email:"mccullaghb@harborfieldscsd.org"
 },
-        values.put("firstname:","Kerri McGinty"
+        values.put("first"name":","Kerri McGinty"
         ,position:"English Teacher"
         ,email:"mcgintyk@harborfieldscsd.org"
 },
-        values.put("firstname:","Keith Mcinnes"
+        values.put("first"name":","Keith Mcinnes"
         ,position:"Science Teacher"
         ,email:"mcinnesk@harborfieldscsd.com"
 },
-        values.put("firstname:","Sabrina Meehan"
+        values.put("first"name":","Sabrina Meehan"
         ,position:"Guidance counselor"
         ,email:"meehans@harborfieldscsd.org"
 },
-        values.put("firstname:","Lisa Michalek"
+        values.put("first"name":","Lisa Michalek"
         ,position:"Clerical"
         values.put("email","michalek@harborfieldscsd.org"
 },
-        values.put("firstname:","Brigitte Ohlenschlaeger"
+        values.put("first"name":","Brigitte Ohlenschlaeger"
         ,position:"Teaching assistant"
         values.put("email","ohlenschlaegerb@harbofields.org"
 },
-        values.put("firstname:","Amy Pechar"
+        values.put("first"name":","Amy Pechar"
         ,position:"Clerical"
         values.put("email","pechara@harborfieldscsd.org"
 },
-        values.put("firstname:","Laura Pfaff"
+        values.put("first"name":","Laura Pfaff"
         ,position:"Social Studies Teacher"
         values.put("email","pfaffl@harborfieldscsd.org"
 },
-        values.put("firstname:","Michael Pinto"
+        values.put("first"name":","Michael Pinto"
         ,position:"Science Teacher"
         values.put("email","pintom@harborfieldscsd.org"
 },
-        values.put("firstname:","Michael Potter"
+        values.put("first"name":","Michael Potter"
         ,position:"PE/Health Teacher"
         values.put("email","PotterM@harborfieldscsd.org"
 },
-        values.put("firstname:","Bryan Proctor"
+        values.put("first"name":","Bryan Proctor"
         ,position:"Physical Education Teacher"
         values.put("email","proctorb@harborfieldscsd.org"
 },
-        values.put("firstname:","Georgia Psilakis"
+        values.put("first"name":","Georgia Psilakis"
         ,position:"Clerical"
         values.put("email","PsilakisG@garborfieldscsd.org"
 },
-        values.put("firstname:","Catherine Purcell"
+        values.put("first"name":","Catherine Purcell"
         ,position:"Mathematics Teacher"
         values.put("email","purcellc@harborfieldscsd.org"
 },
-        values.put("firstname:","Caryl Reda"
+        values.put("first"name":","Caryl Reda"
         ,position:"Clerical"
         values.put("email","redac@harborfields.org"
 },
-        values.put("firstname:","Jamie Reinish"
+        values.put("first"name":","Jamie Reinish"
         ,position:"Paraprofessional"
         values.put("email","reinishj@harborfieldscsd.org"
 },
-        values.put("firstname:","Eugenia Ritter"
+        values.put("first"name":","Eugenia Ritter"
         ,position:"Art Teacher"
         values.put("email","RitterE@harborfieldscsd.org"
 },
-        values.put("firstname:","AnnMaria Romereo"
+        values.put("first"name":","AnnMaria Romereo"
         ,position:"LOTE Teacher"
         values.put("email","romeoa@harborfieldscsd.org"
 },
-        values.put("firstname:","Steven Rona"
+        values.put("first"name":","Steven Rona"
         ,position:"Social Studies Teacher"
         values.put("email","ronais@harborfieldscsd.org"
 },
-        values.put("firstname:","Jule Rosen"
+        values.put("first"name":","Jule Rosen"
         ,position:"Science Teacher"
         values.put("email","RosenJ@harborfieldscsd.org"
 },
-        {name:"Alissa Rosenberg"
+        {"name":"Alissa Rosenberg"
         ,position:"Speech Teacher"
         ,email:"rosenberga@harborfieldscsd.org"
 },
-        {name:"Francis Rossi"
+        {"name":"Francis Rossi"
         ,position:"Science Teacher"
         ,email:"RossiF@harborfieldscsd.org"
 },
-        {name:"Judith  Russell"
+        {"name":"Judith  Russell"
         ,position:"Paraprofessional"
         ,email:"RusselJ@harborfieldscsd.org"
 },
-        {name:"Timothy Russo"
+        {"name":"Timothy Russo"
         ,position:"Social Studies Teacher"
         ,email:"RussoT@harborfieldscsd.org"
 },
-        {name:"Gregory Sagistano"
+        {"name":"Gregory Sagistano"
         ,position:"Social Studies Teacher"
         ,email:"sagistanog@harborfieldscsd.org"
 },
-        {name:"Sylvia Sales"
+        {"name":"Sylvia Sales"
         ,position:"Guidance Counselor"
         ,email:"SalesS@harborfieldscsd.org"
 },
-        {name:"Scott Schaeffer"
+        {"name":"Scott Schaeffer"
         ,position:"Teaching Assistant"
         ,email:"schaeffers@harborfieldscsd.org"
 },
-        {name:"Suzanne Scheer-Legge"
+        {"name":"Suzanne Scheer-Legge"
         ,position:"PE Teacher"
         ,email:"LeggeS@harborfieldscsd.org"
 },
-        {name:"Patricia Schoonmaker"
+        {"name":"Patricia Schoonmaker"
         ,position:"Special Education Teacher"
         ,email:"schoonmakerp@harborfieldscsd.org"
 },
-        {name:"Eileen Shields"
+        {"name":"Eileen Shields"
         ,position:"Art Teacher "
         ,email:"ShieldsE@harborfieldscsd.org"
 },
-        {name:"Karen Short"
+        {"name":"Karen Short"
         ,position:"Teaching Assistant"
         ,email:"ShortK@harborfieldscsd.org"
 },
-        {name:"Cynthia Stanfield"
+        {"name":"Cynthia Stanfield"
         ,position:"Paraprofessional"
         ,email:"StanfieldC@harborfieldscsd.org"
 },
-        {name:"Kim Stebbins"
+        {"name":"Kim Stebbins"
         ,position:"Speech Teacher"
         ,email:"stebbinsk@harborfieldscsd.org"
 },
-        {name:"John Stone"
+        {"name":"John Stone"
         ,position:"Science Teacher"
         ,email:"StoneJ@harborfieldscsd.org"
 },
 
-        {name:"Sharon Swailes"
+        {"name":"Sharon Swailes"
         ,position:"Clerical"
         ,email:"SwailesS@harborfieldscsd.org"
 },
-        {name:"John Tampori"
+        {"name":"John Tampori"
         ,position:"Special Education Teacher"
         ,email:"amporij@harborfieldscsd.org"
 },
-        {name:"Gregory Taylor"
+        {"name":"Gregory Taylor"
         ,position:"Social Studies Teacher"
         ,email:"TaylorG@harborfieldscsd.org"
 },
-        {name:"Patricia Taylor"
+        {"name":"Patricia Taylor"
         ,position:"Social Studies Teacher"
         ,email:"TaylorP@harborfieldscsd.org"
 },
-        {name:"Andrea Thomsen"
+        {"name":"Andrea Thomsen"
         ,position:"English Teacher"
         ,email:"thomsena@harborfieldscsd.org"
 },
-        {name:"Aimee Thomson"
+        {"name":"Aimee Thomson"
         ,position:"Mathematics Teacher"
         ,email:"ThomsonAi@harborfieldscsd.org"
 },
-        {name:"Jenny Turzer"
+        {"name":"Jenny Turzer"
         ,position:"Special Education Teacher"
         ,email:"turzerj@harborfieldscsd.org"
 },
 
-        {name:"Dawn Vavoules"
+        {"name":"Dawn Vavoules"
         ,position:"Clerical"
         ,email:"vavoulesd@harborfieldscsd.org"
 },
-        {name:"Joan E Verardo"
+        {"name":"Joan E Verardo"
         ,position:"Nurse"
         ,email:"VerardoJ@harborfieldscsd.org"
 },
-        {name:"Kalliope Viegas"
+        {"name":"Kalliope Viegas"
         ,position:"Teaching Assistant"
         ,email:"viegask@harborfieldscsd.org"
 },
-        {name:"Rita Vita"
+        {"name":"Rita Vita"
         ,position:"Clerical"
         ,email:"VitaR@harborfieldscsd.org"
 },
-        {name:"Scott J Wallace"
+        {"name":"Scott J Wallace"
         ,position:"Science Teacher"
         ,email:"WallaceS@harborfieldscsd.org"
 },
-        {name:"Alan Walter"
+        {"name":"Alan Walter"
         ,position:"Music Teacher"
         ,email:"waltera@harborfieldscsd.org"
 },
-        {name:"Victoria Williams"
+        {"name":"Victoria Williams"
         ,position:"Clerical"
         ,email:"williamsv@harborfieldscsd.org"
 },
-        {name:"Karen Wills"
+        {"name":"Karen Wills"
         ,position:"Teaching Assistant"
         ,email:"willsk@harborfieldscsd.org"
 },
-        {name:"Christopher Zenyuh"
+        {"name":"Christopher Zenyuh"
         ,position:"Science Teacher"
         ,email:"ZenyuhC@harborfieldscsd.org"
 },
