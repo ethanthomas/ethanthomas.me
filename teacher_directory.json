@@ -313,122 +313,117 @@
         ,"position":"English Teacher"
         ,"email":"mangiamelee@harborfieldscsd.org"
 },
-        values.put("first"name":","Lorraine Mantello"
+        {"name":"Lorraine Mantello"
         ,"position":"Permanent Substitute Teacher"
         ,"email":"mantellol@harborfieldscsd.org"
 },
-        values.put("first"name":","Nicholas Maravell"
+        {"name":"Nicholas Maravell"
         ,"position":"Art Teacher"
         ,"email":"MaravellN@harborfieldscsd.org"
 },
-        values.put("first"name":","Donna Marotta"
+        {"name":"Donna Marotta"
         ,"position":"Special Education"
         ,"email":"marottad@harborfieldscsd.org"
-        db.insert("employee", "last"name":" , values
-
-        values.put("first"name":","Allison Matthews"
+},
+        {"name":"Allison Matthews"
         ,"position":"Business Teacher"
         ,"email":"MatthewsA@harborfieldscsd.org"
-        db.insert("employee", "last"name":" , values
-
-        values.put("first"name":","Stefania Mattio"
+},
+        {"name":"Stefania Mattio"
         ,"position":"LOTE Teacher"
         ,"email":"MattioS@harborfieldscsd.org"
-        db.insert("employee", "last"name":" , values
-
-        values.put("first"name":","Jeri McCabe"
+},
+        {"name":"Jeri McCabe"
         ,"position":"Teaching Assistant"
         ,"email":"McCabeJ@harborfieldscsd.org"
-        db.insert("employee", "last"name":" , values
-
-        values.put("first"name":","James McCabe"
+},
+        {"name":"James McCabe"
         ,"position":"Guidance Counselor"
         ,"email":"mccabej1@harborfieldscsd.org"
-        db.insert("employee", "last"name":" , values
-
-        values.put("first"name":","Annie McClintock"
+},
+        {"name":"Annie McClintock"
         ,"position":"Teaching Assistant"
         ,"email":"mcclintocka@harborfieldscsd.org"
 },
-        values.put("first"name":","McCoy Robert"
+        {"name":"McCoy Robert"
         ,"position":"English Teacher"
         ,"email":"mccoyr@harborfieldscsd.org"
 },
-        values.put("first"name":","Barbara McCullagh"
+        {"name":"Barbara McCullagh"
         ,"position":"English Teacher"
         ,"email":"mccullaghb@harborfieldscsd.org"
 },
-        values.put("first"name":","Kerri McGinty"
+        {"name":"Kerri McGinty"
         ,"position":"English Teacher"
         ,"email":"mcgintyk@harborfieldscsd.org"
 },
-        values.put("first"name":","Keith Mcinnes"
+        {"name":"Keith Mcinnes"
         ,"position":"Science Teacher"
         ,"email":"mcinnesk@harborfieldscsd.com"
 },
-        values.put("first"name":","Sabrina Meehan"
+        {"name":"Sabrina Meehan"
         ,"position":"Guidance counselor"
         ,"email":"meehans@harborfieldscsd.org"
 },
-        values.put("first"name":","Lisa Michalek"
+        {"name":"Lisa Michalek"
         ,"position":"Clerical"
-        values.put("email","michalek@harborfieldscsd.org"
+        "email":"michalek@harborfieldscsd.org"
 },
-        values.put("first"name":","Brigitte Ohlenschlaeger"
+        {"name":"Brigitte Ohlenschlaeger"
         ,"position":"Teaching assistant"
-        values.put("email","ohlenschlaegerb@harbofields.org"
+        "email":"ohlenschlaegerb@harbofields.org"
 },
-        values.put("first"name":","Amy Pechar"
+        {"name":"Amy Pechar"
         ,"position":"Clerical"
-        values.put("email","pechara@harborfieldscsd.org"
+        "email":"pechara@harborfieldscsd.org"
 },
-        values.put("first"name":","Laura Pfaff"
+        {"name":"Laura Pfaff"
         ,"position":"Social Studies Teacher"
-        values.put("email","pfaffl@harborfieldscsd.org"
+        "email":"pfaffl@harborfieldscsd.org"
 },
-        values.put("first"name":","Michael Pinto"
+        {"name":"Michael Pinto"
         ,"position":"Science Teacher"
-        values.put("email","pintom@harborfieldscsd.org"
+        "email":"pintom@harborfieldscsd.org"
 },
-        values.put("first"name":","Michael Potter"
+        {"name":"Michael Potter"
         ,"position":"PE/Health Teacher"
-        values.put("email","PotterM@harborfieldscsd.org"
+        "email":"PotterM@harborfieldscsd.org"
 },
-        values.put("first"name":","Bryan Proctor"
+        {"name":"Bryan Proctor"
         ,"position":"Physical Education Teacher"
-        values.put("email","proctorb@harborfieldscsd.org"
+        "email":"proctorb@harborfieldscsd.org"
 },
-        values.put("first"name":","Georgia Psilakis"
+        {"name":"Georgia Psilakis"
         ,"position":"Clerical"
-        values.put("email","PsilakisG@garborfieldscsd.org"
+        "email":"PsilakisG@garborfieldscsd.org"
 },
-        values.put("first"name":","Catherine Purcell"
+        {"name":"Catherine Purcell"
         ,"position":"Mathematics Teacher"
-        values.put("email","purcellc@harborfieldscsd.org"
+        "email":"purcellc@harborfieldscsd.org"
 },
-        values.put("first"name":","Caryl Reda"
+        {"name":"Caryl Reda"
         ,"position":"Clerical"
-        values.put("email","redac@harborfields.org"
+        "email":"redac@harborfields.org"
 },
-        values.put("first"name":","Jamie Reinish"
+        {"name":"Jamie Reinish"
         ,"position":"Paraprofessional"
-        values.put("email","reinishj@harborfieldscsd.org"
+        "email":"reinishj@harborfieldscsd.org"
 },
-        values.put("first"name":","Eugenia Ritter"
+        {"name":"Eugenia Ritter"
         ,"position":"Art Teacher"
-        values.put("email","RitterE@harborfieldscsd.org"
+        "email":"RitterE@harborfieldscsd.org"
 },
-        values.put("first"name":","AnnMaria Romereo"
+        {"name":"AnnMaria Romereo"
         ,"position":"LOTE Teacher"
-        values.put("email","romeoa@harborfieldscsd.org"
+        "email":"romeoa@harborfieldscsd.org"
 },
-        values.put("first"name":","Steven Rona"
+        {"name":"Steven Rona"
         ,"position":"Social Studies Teacher"
-        values.put("email","ronais@harborfieldscsd.org"
+        "email":"ronais@harborfieldscsd.org"
 },
-        values.put("first"name":","Jule Rosen"
+        {"name":"Jule Rosen"
         ,"position":"Science Teacher"
-        values.put("email","RosenJ@harborfieldscsd.org"
+        "email":"RosenJ@harborfieldscsd.org"
 },
         {"name":"Alissa Rosenberg"
         ,"position":"Speech Teacher"
