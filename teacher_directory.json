@@ -1,16 +1,4 @@
 [
-        {"name":"Dr. Rory J. Manning"
-        ,"position":"Principal"
-        ,"email":"manningr@harborfieldscsd.org"
-},
-        {"name":"Jami Goldstein Scherr"
-        ,"position":"Assistant Principal"
-        ,"email":"scherrj@harborfieldscsd.org"
-},
-        {"name":"Robert Kelly"
-        ,"position":"Assistant Principal"
-        ,"email":"kellyr@harborfieldscsd.org"
-},
         {"name":"Christopher Agostino"
         ,"position":"P.E. Teacher"
         ,"email":"agostinoc@harborfieldscsd.org"
@@ -313,6 +301,10 @@
         ,"position":"English Teacher"
         ,"email":"mangiamelee@harborfieldscsd.org"
 },
+        {"name":"Dr. Rory J. Manning"
+                ,"position":"Principal"
+                ,"email":"manningr@harborfieldscsd.org"
+},
         {"name":"Lorraine Mantello"
         ,"position":"Permanent Substitute Teacher"
         ,"email":"mantellol@harborfieldscsd.org"
@@ -456,6 +448,10 @@
         {"name":"Suzanne Scheer-Legge"
         ,"position":"PE Teacher"
         ,"email":"LeggeS@harborfieldscsd.org"
+},
+        {"name":"Jami Goldstein Scherr"
+        ,"position":"Assistant Principal"
+        ,"email":"scherrj@harborfieldscsd.org"
 },
         {"name":"Patricia Schoonmaker"
         ,"position":"Special Education Teacher"
