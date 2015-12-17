@@ -248,12 +248,18 @@
 	.image
 	{
 		display: inline-block;
+		user-drag: none; 
+-moz-user-select: none;
+-webkit-user-drag: none;
 	}
 	
 		.image img
 		{
 			display: block;
 			width: 100%;
+			user-drag: none; 
+-moz-user-select: none;
+-webkit-user-drag: none;
 		}
 
 	.image-full
@@ -261,6 +267,9 @@
 		display: block;
 		width: 100%;
 		margin: 0 0 2em 0;
+		user-drag: none; 
+-moz-user-select: none;
+-webkit-user-drag: none;
 	}
 	
 	.image-left
@@ -281,6 +290,12 @@
 			width: auto;
 		}
 		
+	img {
+		user-drag: none; 
+-moz-user-select: none;
+-webkit-user-drag: none;
+	}
+
 	.button
 	{
 		display: inline-block;
